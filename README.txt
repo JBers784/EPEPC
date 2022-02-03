@@ -4,6 +4,8 @@ Marble - Fully Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
+Modifications:
+Jorge Garcia Suarez
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
